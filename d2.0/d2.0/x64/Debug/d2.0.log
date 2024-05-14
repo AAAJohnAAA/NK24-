@@ -1,0 +1,10 @@
+﻿  d2.cpp
+D:\Visual Studio\d2.0\d2.cpp(29,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Visual Studio\d2.0\d2.cpp(119,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\d2.0\d2.cpp(132,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\d2.0\d2.cpp(156,64): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio\d2.0\d2.cpp(163,46): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio\d2.0\d2.cpp(164,46): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio\d2.0\d2.cpp(192,40): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio\d2.0\d2.cpp(193,40): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  d2.0.vcxproj -> D:\Visual Studio\d2.0\x64\Debug\d2.0.exe
