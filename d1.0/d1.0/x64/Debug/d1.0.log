@@ -1,0 +1,13 @@
+﻿  d1.cpp
+D:\Visual Studio\d1.0\d1.cpp(30,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Visual Studio\d1.0\d1.cpp(119,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\d1.0\d1.cpp(132,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\d1.0\d1.cpp(156,64): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio\d1.0\d1.cpp(163,46): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio\d1.0\d1.cpp(164,46): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio\d1.0\d1.cpp(187,40): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio\d1.0\d1.cpp(188,40): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  d1.h
+  正在生成代码...
+d1.0\x64\Debug\d1.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  d1.0.vcxproj -> D:\Visual Studio\d1.0\x64\Debug\d1.0.exe
