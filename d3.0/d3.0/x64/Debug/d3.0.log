@@ -1,0 +1,10 @@
+﻿  d3.cpp
+D:\Visual Studio\d3.0\d3.cpp(30,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Visual Studio\d3.0\d3.cpp(119,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\d3.0\d3.cpp(132,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\d3.0\d3.cpp(156,64): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio\d3.0\d3.cpp(163,46): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio\d3.0\d3.cpp(164,46): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio\d3.0\d3.cpp(209,40): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio\d3.0\d3.cpp(210,40): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  d3.0.vcxproj -> D:\Visual Studio\d3.0\x64\Debug\d3.0.exe
